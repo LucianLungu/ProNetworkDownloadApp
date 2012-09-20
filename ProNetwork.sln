@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Network", "WpfApplication1\Project Network.csproj", "{15782122-5628-40D7-AF62-1D8C832C1A35}"
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectNetwork", "WpfApplication1\ProjectNetwork.csproj", "{15782122-5628-40D7-AF62-1D8C832C1A35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
